@@ -1,0 +1,761 @@
+/* 
+
+.p1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 25px;
+}
+
+#p2{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: blue;
+} */
+/* .talha{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    border: 5px solid red;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    margin: auto ;
+
+} */ 
+
+/* .talha{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding: 50px 20px 80px 90px;
+
+}
+
+p{
+    color: white;
+} */
+
+
+
+/* p{
+    margin: 50px;
+    border: 5px solid red; */
+    /* outline-width: 10px;
+    outline-style: solid;
+    outline-color: green; */
+    /* outline: 5px solid green ;
+    outline-offset: 10px;
+    
+} */
+
+
+/* h1{
+    color: red;
+    background-color: black;
+    text-align: center;
+
+}
+
+p{
+    color: blue;
+    text-transform: lowercase;
+    text-indent: 25px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 30px;
+} */
+
+/* h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+p{
+    font-weight: 700;
+    font-style: italic;
+    font-size: 3vw;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} */
+
+/* .fa-brands{
+    font-size: 50px;
+    color: brown ;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    background-color: green;
+    font-size: 50px;
+    padding: 5px 15px;
+    border: 5px solid black;
+
+}
+
+a:hover{
+    color: white;
+    background-color: black;
+}
+
+a:active{
+    color: yellow;
+} */
+
+/* a:visited{
+    color: tomato;
+    background-color: black;
+} */
+
+
+/* UL{
+    list-style: square inside url(img.jpg);
+} */
+
+/* table,th,td{
+    border: 3px solid tomato;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table{
+    width: 100%;
+}
+
+th,td{
+    color: red;
+} */
+
+/* h1{
+    text-align: center;
+    display: inline-block;
+}
+
+span{
+    text-align: center;
+    display: ;
+}
+
+ul,li{
+    display: inline;
+} */
+
+
+/* 
+.p1{
+    border: 3px solid red;
+    width: 800px;
+    margin: auto;
+}
+
+.p2{
+    border: 3px solid green;
+    max-width: 400px;
+    margin: auto;
+}
+
+.p3{
+    width: 400px;
+    height: 250px;
+    border: 5px solid black;
+    overflow: auto;
+
+} */
+
+
+/* .box1{
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    position: relative;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    left: 0;
+    margin: auto;
+}
+
+.box2{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    border-radius: 50%;
+
+}
+
+.name{
+    border: 2px solid tomato;
+    margin-top: 10px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+
+}
+
+p{
+    padding-bottom: 5000px;
+}
+
+.talha{
+    position: absolute;
+} */
+
+
+
+/* .img1{
+    width: 400px;
+    float: right;
+}
+.img2{
+    width: 400px;
+    float: left;
+}
+
+p{
+   clear: both;
+} */
+
+/* .box1{
+    width: 300px;
+    height: 200px;
+    background-color: black;
+}
+
+.box2{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+}
+
+.box3{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+}
+
+.box4{
+    width: 300px;
+    height: 200px;
+    background-color: tomato;
+}
+
+div{
+    float: left;
+} */
+
+
+/* a:hover{
+    color: black;
+    background-color: yellow;
+}  */
+
+/* h2:nth-child(4){
+    color: red;
+
+} */
+
+/* p::first-line{
+    color: red;
+    font-size: 50px;
+}
+
+h1::before{
+    content: url(img.jpg);
+} */
+
+
+/* img{
+    width: 400px;
+
+}
+
+img:hover{
+    opacity: 1;
+} */
+
+
+/* .bg{
+    width: 700px;
+    height: 1000px;
+    background: url(img.jpg) no-repeat center;
+    overflow: hidden;
+}
+
+p{
+    font-size: 50px;
+
+}
+
+.box p{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 100px;
+    opacity: 0.5;
+} */
+
+
+/* h1{
+  color: tomato;  
+}
+
+h2{
+    color: rgb(0, 0, 255, 0.5);
+}
+
+p{
+    color: #000fff;
+}
+
+.box{
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(to left top , rgba(255,0,0) 90px, green);
+} */
+
+
+/* h1{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px ;
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid rgb(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 5px 5px;
+}
+
+.box img{
+    width: 100%;
+}
+
+h3{
+    margin: 0;
+} */
+
+
+
+/* .social{
+    width: 48px;
+    height: 48px;
+    background-image: url(social.png);
+    background-repeat: no-repeat;
+    background-position: 0 -29px;
+    border-radius: 50%;
+    transition: 1s;
+}
+
+.social:hover{
+    background-position: 0 -73px;
+} */
+
+/* h1{
+    text-align: center;
+}
+
+h3{
+    height: 400px;
+    width: 400px;
+    background-color: tomato;
+    color: white;
+    margin: 100px auto;
+    position: relative;
+    transform: rotate(45deg);
+
+}
+
+.box h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px auto;
+    position: relative;
+    transform: scale();
+    transform: skew(45deg);
+
+} */
+
+
+
+/* .box {
+    height: 400px;
+    width: 400px;
+    background-color: tomato;
+    margin: 100px auto;
+
+    transition-property: all;
+    transition-delay: 1s;
+    transition-duration: 0.5s;
+    transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86); 
+
+    transition: all 0.5s linear;
+    
+
+}
+
+.box:hover{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: blue;
+    transform: rotate(180deg);
+} */
+
+
+/* .box {
+    height: 400px;
+    width: 400px;
+    background-color: tomato;
+    margin: 100px auto;
+    position: relative; */
+
+    /* animation-name: square;
+    animation-duration: 6s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: backwards;
+    animation-play-state: running; */
+
+    /* animation:square 4s linear 2s infinite alternate backwards running;
+
+
+} */
+
+
+
+/* @keyframes square{
+    0% {
+        background-color: tomato; 
+        left: 0;
+        right: 0;
+    }
+    25% {
+        background-color: green;
+        left: 500px;
+        right: 0px;
+
+    }
+    50% {
+        background-color: blue;
+        left: 500px;
+        right: 500px;
+        border-radius: 50%;
+    }
+    75% {
+        background-color: yellow;
+        left: 0;
+        right: 500px;
+
+    }
+    100% {
+        background-color: orange;
+        left: 0px;
+        right: 0px;
+        border-radius: 0px;
+    }
+} */
+
+
+/* .box {
+    height: 400px;
+    width: 400px;
+    border: 15px solid tomato;
+    border-radius: 50%;
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    animation: box 2s infinite forwards;
+
+}
+
+@keyframes box{
+    0% {border-color: red ;transform: scale(1); }
+    25% {border-color: orange; transform: scale(1.1);}
+    50% {border-color: lime; transform: scale(1.2);}
+    75% {border-color: blue; transform: scale(1.3);}
+    100% {border-color: green; transform: scale(1.4);}
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    animation: circle 2s infinite alternate;
+
+}
+
+@keyframes circle{
+    0%{transform: rotate(0deg); border-width: 10px;}
+    25%{border-color: aqua; border-width: 20px;}
+    50%{border-color: rgb(226, 161, 55); border-width: 30px;}
+    75%{border-color: rgb(114, 251, 80); border-width: 40px;}
+    100%{transform: rotate(360deg);}
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} */
+
+/* 
+.btn:hover{
+    animation: button 3s infinite alternate;
+    background-color: yellow;
+    
+    
+}
+
+@keyframes button{
+    0%{transform: rotate(360deg); border-width: 8px;}
+    50%{border-color: rgb(173, 99, 3);}
+
+} */
+
+
+/* .flexbox{
+    background-color: aqua;
+    font-size: 35px;
+    display: flex; */
+
+
+    /* flex-wrap: wrap;
+    flex-direction: column; */
+
+    /* flex-flow: wrap row;
+
+
+}
+
+.flexbox > div{
+   background-color: gray; 
+   margin: 5px;
+   padding: 5px;
+   width: 100px;
+} */
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+main{
+    width: 75%;
+    margin: 10px auto;
+    border: 1px solid #ddd;
+    color: white;
+    display: grid;
+    grid-template-rows: 60px 100px 200px 60px;
+    grid-template-columns: repeat(3, 1fr) 150px;
+    grid-gap: 10px;
+}
+
+.div1{ 
+    background-color: #ff4757;
+    grid-column: 1/-1;
+}
+.div2{ background-color: #2ed57e; }
+.div3{ background-color: #1e90ff; }
+.div4{ background-color: #5352ed; }
+.div5{ 
+    background-color: #2f3542; 
+    grid-row: 2/4;
+    grid-column: 4/5;
+}
+.div6{ 
+    background-color: #ffa502;
+    grid-column: 1/4; 
+}
+.div7{ 
+    background-color: #00d2d3;
+    grid-column: 1/-1  ;
+ } */
+
+
+/* Header Start */
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #ddd;
+
+}
+
+header{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    color: white;
+}
+
+.logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    
+
+}
+
+.navbar
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul li{
+    background-color: #262626;
+    width: 170px;
+    border: 1px solid #fff;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    float: left;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbar ul li:hover{
+    background-color: crimson; 
+    transform: all ease-in 0.5s;
+}
+
+
+.navbar ul ul{
+    display: none;
+}
+
+.navbar ul li:hover > ul{
+    display: block;
+}
+
+/* Header Ends */
+
+
+
+
+
+/* Form section Ends */
+
+.form1{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+    padding: 30px 80px;
+    margin-top: 75px;
+    border-radius: 7%;
+    box-shadow: 0 4px 8px 0 rgb(12, 1, 1), 0 6px 20px rgb(224, 224, 183);
+}
+
+.form1 input{
+    padding: 6px 12px;
+    border-color: crimson;
+    border-radius: 50px;
+}
+
+.form1 .btn{
+    font-weight: bold;
+}
+
+
+
+/* Form Section Ends */
+
+
+/* Footer part Start */
+
+footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(29, 27, 27);
+    width: 100%;
+    color: white;
+}
+
+.name h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.text p{
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: -30px;
+}
+
+.icon i{
+    font-size: 45px;
+    position: relative;
+    top: -20px;
+    padding: 10px;
+}
+
+.copy{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    font-size: 25px;
+    line-height: 50px;
+
+}
+
+
